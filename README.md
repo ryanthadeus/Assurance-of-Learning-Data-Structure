@@ -51,8 +51,3 @@ May I help you?
 4. View all slang words
 5. Exit
 ```
-
-## ✨ Catatan
-
-* Program ini menggunakan **rekursi** untuk menampilkan semua slang di dalam Trie.
-* Input divalidasi agar slang minimal 2 karakter dan deskripsi minimal 2 kata.
